@@ -1,0 +1,27 @@
+1 скилл: sniffing traffic Android and IOS
+2 скилл: Logs
+3 скилл: VPN
+4 скилл:Android studio build
+5 скилл:HTTP request and response structure
+6 скилл:Base theory
+7 скилл:Xcode build
+8 скилл:HTTP response codes
+9 скилл:Linux terminal
+10 скилл:Charles and Fiddler
+11 скилл:Client-server architecture
+12 скилл:Android and IOS VPN settings
+13 скилл:Postman API Testing
+14 скилл:ADB
+15 скилл:JSON,XML structure
+16 скилл:Dev Tools
+17 скилл:HTTP methods
+18 скилл:IOS and Android guidelines
+19 скилл:Mobile testing
+20 скилл:Bash scripting
+21 скилл:Jmeter
+22 скилл:Server remote access
+23 скилл:Redis
+24 скилл:SQL
+25 скилл:Python
+26 скилл:Scrum
+27 скилл:Postgres
